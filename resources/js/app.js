@@ -16,7 +16,7 @@ import generalLangEn from "@/Lang/en/general_lang_en";
 import generalLangFr from "@/Lang/fr/general_lang_fr";
 import generalLangRu from "@/Lang/ru/general_lang_ru";
 import generalLangTr from "@/Lang/tr/general_lang_tr";
-import generalLangZh from "@/Lang/zh/general_lang_zh";
+import generalLangpt_br from "@/Lang/pt_br/general_lang_pt_br";
 
 const i18n = createI18n({
     legacy: false,
@@ -30,7 +30,7 @@ const i18n = createI18n({
         fr: generalLangFr,
         ru: generalLangRu,
         tr: generalLangTr,
-        zh: generalLangZh,
+        pt_br: generalLangpt_br,
     },
 });
 

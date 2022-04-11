@@ -1,18 +1,18 @@
 const generalLangFr = {
     brandName: "LaraQuality",
     /* Theme */
-    darkMode: "Tema escuro",
-    lightMode: "Tema claro",
+    darkMode: "Thème sombre",
+    lightMode: "Thème de la lumière",
     auto: "Auto",
     /* Error */
-    somethingWentWrong: "Ops, algo está errado",
+    somethingWentWrong: "Oups, quelque chose s'est mal passé",
     /* Simple Terms */
-    save: 'Salvar',
-    reset: 'Resetar',
-    cancel: 'Cancelar',
-    delete: 'Deletar',
-    edit: 'Editar',
-    view: 'Ver'
+    save: 'Sauvegarder',
+    reset: 'Réinitialiser',
+    cancel: 'Annuler',
+    delete: 'Supprimer',
+    edit: 'Éditer',
+    view: 'Voir'
 };
 
 export default generalLangFr;

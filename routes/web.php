@@ -27,7 +27,7 @@ Route::get('lang/{locale}', function ($locale) {
         'fr' => 'fr',
         'ru' => 'ru',
         'tr' => 'tr',
-        'zh' => 'zh',
+        'pt_br' => 'pt_br',
     ];
     if (array_key_exists($locale, $availableLangs)) {
         session()->put('locale', $locale);

@@ -348,34 +348,32 @@ export default defineComponent({
                     alertDeletedUser: "Пользователь успешно удален" +
                         "<br/><b>Пользователь:</b> Зухал ТАШИ"
                 },
-                zh: {
-                    title: "欢迎来到海葵",
-                    home: "家",
-                    dashboard: "仪表板",
-                    incomes: "收入",
-                    dailyDoneCharts: "每日完成图表",
-                    refunds: "退款",
-                    stationeryCost: "退款",
-                    userList: "用户列表",
-                    activeProjects: "活动项目",
-                    name: "名称",
-                    startDate: "开始日期",
-                    endDate: "结束日期",
-                    status: "状态",
-                    simpleSearch: "简单搜索",
-                    name1: "Siyan Alekov Hristov",
-                    name2: "Yuan Lei",
-                    name3: "Liao Rong",
-                    name4: "Zhu Chang",
-                    alertDeleted: "用户删除成功，点我",
-                    alertOverwrite: "所有更改都覆盖到自己",
-                    alertSaved: "新项目保存成功",
-                    alertNewUser: "新用户添加成功。." +
-                        "<br/><b>用户:</b> Sinan AYDOĞAN",
-                    alertDeletedUserTitle: "警告",
-                    alertDeletedUser: "用户删除成功" +
-                        "<br/><b>用户:</b> Zuhal TAŞÇI"
-                },
+                pt_br: {
+          title: "Bem vindo ao Unis",
+          home: "Home",
+          dashboard: "Dashboard",
+          incomes: "Rendimentos",
+          dailyDoneCharts: "Gráficos Diários",
+          refunds: "Reembolsos",
+          stationeryCost: "Reembolsos",
+          userList: "Lista de usuários",
+          activeProjects: "Projetos Ativos",
+          name: "Nome",
+          startDate: "Data Inicial",
+          endDate: "Data Final",
+          status: "Status",
+          simpleSearch: "Pesquisa simples",
+          name1: "Sinem Aydoğan",
+          name2: "Reema Oconnor",
+          name3: "Mia-Rose Justice",
+          name4: "Louise Watts",
+          alertDeleted: "O usuário foi excluido com sucesso, clique em mimThe user deleted successfully,click me",
+          alertOverwrite: "Todas as alterações foram efetuadas.",
+          alertSaved: "Novo item salvo com sucesso",
+          alertNewUser: "O novo usuário foi adicionado com sucesso." + "<br/><b>User:</b> Pedro Simões",
+          alertDeletedUserTitle: "Aviso",
+          alertDeletedUser: "O usuário foi excluído com sucesso" + "<br/><b>User:</b> Yasmin Marquesine"
+        },
             }
         });
         const breadcrumbs = reactive([

@@ -25,7 +25,7 @@ class LocalizationMiddleware
             'fr' => 'fr',
             'ru' => 'ru',
             'tr' => 'tr',
-            'zh' => 'zh',
+            'pt_br' => 'pt_br',
         ];
 
         // Determinate the language of the session

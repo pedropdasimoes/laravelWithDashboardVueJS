@@ -1,17 +1,17 @@
 const userMenuLangFr = {
-    manageAccount: "Gerenciar conta",
-    manageTeam: "Gerenciar equipe",
-    switchTeams: "Trocar de equipe",
-    language: "Idioma",
-    darkMode: "Modo escuro",
-    profile: "Perfil",
+    manageAccount: "Manage Account",
+    manageTeam: "Manage Team",
+    switchTeams: "Switch Team",
+    language: "Language",
+    darkMode: "Dark Mode",
+    profile: "Profile",
     api: "API Tokens",
-    teamSettings: "Configurações da equipe",
-    createNewTeam: "Criar nova equipe",
+    teamSettings: "Team Settings",
+    createNewTeam: "Create New Team",
     auto: "Auto",
-    dark: "Escuro",
-    light: "Claro",
-    logout: "Sair"
+    dark: "Dark",
+    light: "Light",
+    logout: "Logout"
 };
 
 export default userMenuLangFr;

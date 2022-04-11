@@ -1,7 +1,7 @@
 const notification_fr = {
-    pendingWorks: 'Trabalhos pendentes',
-    unfinishedTodos: 'Tarefas inacabadas',
-    unreadMessages: 'Mensagens não lidas'
+    pendingWorks: 'Travaux en attente',
+    unfinishedTodos: 'Tâches en cours',
+    unreadMessages: 'Messages non lus'
 };
 
 export default notification_fr;

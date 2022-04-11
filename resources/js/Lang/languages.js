@@ -5,7 +5,7 @@ import flagEn from "@/Lang/Flags/flagEn";
 import flagFr from "@/Lang/Flags/flagFr";
 import flagRu from "@/Lang/Flags/flagRu";
 import flagTr from "@/Lang/Flags/flagTr";
-import flagZh from "@/Lang/Flags/flagZh";
+import flagpt_br from "@/Lang/Flags/flagpt_br";
 
 const flags = {
     flagBg: flagBg,
@@ -14,7 +14,7 @@ const flags = {
     flagFr: flagFr,
     flagRu: flagRu,
     flagTr: flagTr,
-    flagZh: flagZh,
+    flagpt_br: flagpt_br,
 };
 
 /* Languages */
@@ -25,7 +25,7 @@ const languages = [
     { id: "de", name: "Deutsch", flag: "flagDe" },
     { id: "fr", name: "Français", flag: "flagFr" },
     { id: "ru", name: "Pусский", flag: "flagRu" },
-    { id: "zh", name: "自从", flag: "flagZh" },
+    { id: "pt_br", name: "Português Brasil", flag: "flagpt_br" },
 ];
 
 /* Translates */
@@ -37,7 +37,7 @@ import authLangEn from "@/Lang/en/auth_lang_en";
 import authLangFr from "@/Lang/fr/auth_lang_fr";
 import authLangRu from "@/Lang/ru/auth_lang_ru";
 import authLangTr from "@/Lang/tr/auth_lang_tr";
-import authLangZh from "@/Lang/zh/auth_lang_zh";
+import authLangpt_br from "@/Lang/pt_br/auth_lang_pt_br";
 const authTranslates = {
     bg: authLangBg,
     de: authLangDe,
@@ -45,7 +45,7 @@ const authTranslates = {
     fr: authLangFr,
     ru: authLangRu,
     tr: authLangTr,
-    zh: authLangZh,
+    pt_br: authLangpt_br,
 };
 
 /*Side Menu Translates*/
@@ -55,7 +55,7 @@ import mainMenuLangEn from "@/Lang/en/main_menu_lang_en";
 import mainMenuLangFr from "@/Lang/fr/main_menu_lang_fr";
 import mainMenuLangRu from "@/Lang/ru/main_menu_lang_ru";
 import mainMenuLangTr from "@/Lang/tr/main_menu_lang_tr";
-import mainMenuLangZh from "@/Lang/zh/main_menu_lang_zh";
+import mainMenuLangpt_br from "@/Lang/pt_br/main_menu_lang_pt_br";
 const mainMenuTranslates = {
     bg: mainMenuLangBg,
     de: mainMenuLangDe,
@@ -63,7 +63,7 @@ const mainMenuTranslates = {
     fr: mainMenuLangFr,
     ru: mainMenuLangRu,
     tr: mainMenuLangTr,
-    zh: mainMenuLangZh,
+    pt_br: mainMenuLangpt_br,
 };
 
 /*User Menu Translates*/
@@ -73,7 +73,7 @@ import userMenuLangEn from "@/Lang/en/user_menu_lang_en";
 import userMenuLangFr from "@/Lang/fr/user_menu_lang_fr";
 import userMenuLangRu from "@/Lang/ru/user_menu_lang_ru";
 import userMenuLangTr from "@/Lang/tr/user_menu_lang_tr";
-import userMenuLangZh from "@/Lang/zh/user_menu_lang_zh";
+import userMenuLangpt_br from "@/Lang/pt_br/user_menu_lang_pt_br";
 const userMenuTranslates = {
     bg: userMenuLangBg,
     de: userMenuLangDe,
@@ -81,7 +81,7 @@ const userMenuTranslates = {
     fr: userMenuLangFr,
     ru: userMenuLangRu,
     tr: userMenuLangTr,
-    zh: userMenuLangZh,
+    pt_br: userMenuLangpt_br,
 };
 
 /*Notification Translates*/
@@ -91,7 +91,7 @@ import notificationLangEn from "@/Lang/en/notification_lang_en";
 import notificationLangFr from "@/Lang/fr/notification_lang_fr";
 import notificationLangRu from "@/Lang/ru/notification_lang_ru";
 import notificationLangTr from "@/Lang/tr/notification_lang_tr";
-import notificationLangZh from "@/Lang/zh/notification_lang_zh";
+import notificationLangpt_br from "@/Lang/pt_br/notification_lang_pt_br";
 const notificationTranslates = {
     bg: notificationLangBg,
     de: notificationLangDe,
@@ -99,7 +99,7 @@ const notificationTranslates = {
     fr: notificationLangFr,
     ru: notificationLangRu,
     tr: notificationLangTr,
-    zh: notificationLangZh,
+    pt_br: notificationLangpt_br,
 };
 
 export {

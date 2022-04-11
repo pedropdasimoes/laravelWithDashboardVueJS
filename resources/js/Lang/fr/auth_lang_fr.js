@@ -1,18 +1,18 @@
 const authLangFr = {
     email: "Email",
-    password: "Senha",
-    rememberMe: "Me lembre",
-    forgotPassword: "Esqueceu a senha?",
-    login: "Entrar",
-    logout: "Sair",
-    register: "Registre-se",
+    password: "Mot de passe",
+    rememberMe: "Souviens-toi de moi",
+    forgotPassword: "Mot de passe oublié?",
+    login: "Connexion",
+    logout: "Se déconnecter",
+    register: "Registre",
     validationMessage: {
         email: {
-            required: "O email é obrigatório.",
-            email: "O email deve ser um email válido."
+            required: "Le champ email est obligatoire",
+            email: "L'e-mail doit être une adresse e-mail valide"
         },
         password: {
-            required: "A senha é obrigatória."
+            required: "Le champ mot de passe est obligatoire"
         }
     }
 };
