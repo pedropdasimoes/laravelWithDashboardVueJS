@@ -12,7 +12,7 @@
 */
 
 return [
-    'failed'   => 'Essas credenciais não correspondem aos nossos registros.',
-    'password' => 'A senha fornecida está incorreta.',
-    'throttle' => 'Muitas tentativas de login. Por favor, tente novamente em :seconds segundos.',
+    'failed'   => 'Ces identifiants ne correspondent pas à nos enregistrements.',
+    'password' => 'Le mot de passe fourni est incorrect.',
+    'throttle' => 'Tentatives de connexion trop nombreuses. Veuillez essayer de nouveau dans :seconds secondes.',
 ];

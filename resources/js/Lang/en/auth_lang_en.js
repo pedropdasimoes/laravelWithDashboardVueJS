@@ -1,20 +1,20 @@
-const authLangEn = {
+const authLangpt_br = {
     email: "Email",
-    password: "Password",
-    rememberMe: "Remember me",
-    forgotPassword: "Forgot your password?",
-    login: "Login",
-    logout: "Logout",
-    register: "Register",
+    password: "Senha",
+    rememberMe: "Me lembre",
+    forgotPassword: "Esqueceu a senha?",
+    login: "Entrar",
+    logout: "Sair",
+    register: "Registre-se",
     validationMessage: {
         email: {
-            required: "The email filed is required",
-            email: "The email must be a valid email address"
+            required: "O email é obrigatório.",
+            email: "O email deve ser um email válido."
         },
         password: {
-            required: "The password filed is required"
+            required: "A senha é obrigatória."
         }
     }
 };
 
-export default authLangEn;
+export default authLangpt_br;

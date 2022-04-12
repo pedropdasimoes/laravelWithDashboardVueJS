@@ -349,7 +349,7 @@ export default defineComponent({
                         "<br/><b>Пользователь:</b> Зухал ТАШИ"
                 },
                 pt_br: {
-          title: "Bem vindo ao Unis",
+          title: "Bem vindo",
           home: "Home",
           dashboard: "Dashboard",
           incomes: "Rendimentos",
